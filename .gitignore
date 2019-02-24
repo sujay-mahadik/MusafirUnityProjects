@@ -5,4 +5,6 @@
 Assets/Pedestrian System
 Assets/Traffic System
 Assets/_TerrainAutoUpgrade
-Assets/*.meta
+Assets/_TerrainAutoUpgrade.meta
+Assets/Pedestrian System.meta
+Assets/Traffic System.meta

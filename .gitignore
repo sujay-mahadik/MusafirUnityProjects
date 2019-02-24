@@ -1,5 +1,8 @@
 
 /*
 ! /.gitignore
-!Assets/ScenesFooBar
-Assets/*
+!Assets
+Assets/Pedestrian System
+Assets/Traffic System
+Assets/_TerrainAutoUpgrade
+Assets/*.meta
